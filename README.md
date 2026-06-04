@@ -25,7 +25,9 @@ npm run dev
 Run new-ui:
 -------------------------------------------------------------------------------------------------
 cd new-ui/my-app
+
 npm install
+
 npm run dev
 
 Web Link
